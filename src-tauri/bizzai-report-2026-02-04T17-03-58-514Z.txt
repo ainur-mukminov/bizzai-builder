@@ -1,0 +1,18 @@
+BIZZI AI Builder Report
+========================
+Target: anti-fish.ru
+Date: 2026-02-04T17:03:58.512Z
+
+Results:
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-02-04 20:01 MSK
+Nmap scan report for anti-fish.ru (37.140.192.64)
+Host is up (0.068s latency).
+Other addresses for anti-fish.ru (not scanned): 2a00:f940:2:2:1:1:0:110
+rDNS record for 37.140.192.64: server110.hosting.reg.ru
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     nginx
+443/tcp open  ssl/http nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 15.87 seconds
