@@ -7,7 +7,7 @@ Professional Ethical Pentest Automation Tool
 - ✅ Created by Ainur Mukminov
 
 ## Demo
-Live demo: https://YOUR-USERNAME.github.io/bizzai-builder/
+Live demo: https://ainur-mukminov.github.io/bizzai-builder/
 
 ## Technologies
 - Frontend: React + TypeScript
